@@ -27,22 +27,4 @@ for w in s:
     print()
 
 
-# labels.csv
-# label_id,x,y,z,X,Y,Z
-# 0,0.0,8.4,0,0,0,0
-# 1,0.0,7.2,0,0,0,0
-# 2,0.0,6.0,0,0,0,0
-# 3,0.0,4.8,0,0,0,0
-# 4,0.0,3.6,0,0,0,0
-# 10,1.2,8.4,0,0,0,0
-# 11,1.2,7.2,0,0,0,0
-# 12,1.2,6.0,0,0,0,0
-# 13,1.2,4.8,0,0,0,0
-# 14,1.2,3.6,0,0,0,0
-
-# locations.csv
-# label_id, location_type, load_orientation, load_long_side_length, load_short_side_length, load_long_side_length_between_legs, load_short_side_length_between_legs
-# 0,UNKNOWN
-
-
 
